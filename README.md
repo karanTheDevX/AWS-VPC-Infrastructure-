@@ -30,8 +30,8 @@ The design closely follows AWS best practices for secure and scalable VPC networ
 
 ## 📏 Architecture Diagram
 
-![Architecture](./architecture.png)
 
+![Architecture](./architecture.png)
 ---
 
 ## 🛠️ Components Used
